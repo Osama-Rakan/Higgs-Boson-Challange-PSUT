@@ -1,0 +1,2 @@
+# Higgs-Boson-Challange-PSUT
+ Second place globally in Machine Learning for Science Hackathon 2021 , “Higgs boson classification challenge” organized by both Brown and Alabama universities. The task was to classify particles to either be background or signal based on the provided data which consisted of 11 million rows and 28 columns, Neural Networks provided a good solution to tackle this problem. I was given an honor shield by my university (PSUT). Our Team in that challenge: Osama Rakan Al Mraikhat, Reema Abu Al Rub, Mahmoud Saber.
