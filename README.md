@@ -1,4 +1,4 @@
-# Higgs-Boson-Challange-PSUT
+# ML4SCI_HIggs_boson_classification_challenge
 ### Background: 
 High-energy collisions at the Large Hadron Collider (LHC) produce particles that interact with particle detectors. One important task is to classify different types of collisions based on their physics content, allowing physicists to find patterns in the data and to potentially unravel new discoveries.
 
