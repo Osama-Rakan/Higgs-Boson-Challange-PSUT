@@ -1,4 +1,10 @@
 # ML4SCI_Higgs_boson_classification_challenge
+Winning certificate:
+[ML4SCI Higgs.pdf](https://github.com/Osama-Rakan/Higgs-Boson-Challange-PSUT/files/12012369/ML4SCI.Higgs.1.pdf)
+
+![ML4SCI Higgs (1)-1](https://github.com/Osama-Rakan/Higgs-Boson-Challange-PSUT/assets/78223597/ca0ce166-36dd-4ddf-ae4d-491ba6164336)
+
+
 ### Background: 
 High-energy collisions at the Large Hadron Collider (LHC) produce particles that interact with particle detectors. One important task is to classify different types of collisions based on their physics content, allowing physicists to find patterns in the data and to potentially unravel new discoveries.
 
